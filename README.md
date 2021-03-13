@@ -1,8 +1,18 @@
-# diya
+# Digital Yard
 
 A new Flutter application.
 
 ## Getting Started
+
+A single app with all of our necesities
+
+##Available Features
+--------------------
+ *Speech Recognition  
+ *Integration of NLP Based query addressing 
+ *Phone Call via Speech 
+ 
+## Flutter Started
 
 This project is a starting point for a Flutter application.
 

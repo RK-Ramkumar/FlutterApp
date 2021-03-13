@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class aniApp extends StatefulWidget {
+class AniApp extends StatefulWidget {
   @override
   _MyAppState createState() => _MyAppState();
 }
 
-class _MyAppState extends State<aniApp>
+class _MyAppState extends State<AniApp>
     with SingleTickerProviderStateMixin {
   AnimationController controller;
   Animation<double> animation;
